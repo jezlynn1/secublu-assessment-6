@@ -2,9 +2,9 @@
 export const APP_VERSION = 'Version 1.0';
 
 export const sampleProfile = {
-  name: 'Alex Morgan',
-  designation: 'Cloud Security Intern',
-  skills: 'Linux, Networking, JavaScript, Cloud fundamentals',
+  name: 'Jezlynn Hannah Joji',
+  designation: 'Cybersecurity and Cloud Security Intern.',
+  skills: 'Linux, Networking, Cloud fundamentals',
   goals: 'Deploy a React application with Nginx, understand browser routing, and practice secure cloud configuration.',
 };
 
