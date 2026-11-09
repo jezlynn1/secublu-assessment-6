@@ -1,11 +1,11 @@
 // Change this label, rebuild, and redeploy to practice releasing a new version.
-export const APP_VERSION = 'Version 1.0';
+export const APP_VERSION = 'Version 1.1';
 
 export const sampleProfile = {
   name: 'Jezlynn Hannah Joji',
   designation: 'Cybersecurity and Cloud Security Intern.',
   skills: 'Linux, Networking, Cloud fundamentals',
-  goals: 'Deploy a React application with Nginx, understand browser routing, and practice secure cloud configuration.',
+  goals: 'Strengthen my cybersecurity and cloud skills through practical projects and hands-on deployment experience.',
 };
 
 export const projects = [
